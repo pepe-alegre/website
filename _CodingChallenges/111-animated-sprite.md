@@ -30,9 +30,9 @@ contributions:
     source: "https://github.com/chief141/Coding-Train-Challenges-python/tree/master/Sprite-animation"
   - title: "Head boppin man"
     author:
-      name: "kawaiipantsu"
-      url: "https://github.com/kawaiipantsu"
-    url: "https://editor.p5js.org/kawaiipantsu/present/uULTDdG0Q"
-    source: "https://editor.p5js.org/kawaiipantsu/sketches/uULTDdG0Q"
+      name: "pepe-alegre"
+      url: "https://editor.p5js.org/utopianssuck@gmail.com/full/PfXLLS_Ox"
+    url: " "
+    source: "https://editor.p5js.org/kawaiipantsu/present/uULTDdG0Q"
 ---
 In this coding challenge, I load a sprite sheet and create multiple animated sprites with the p5.js library.
